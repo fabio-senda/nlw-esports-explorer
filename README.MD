@@ -6,7 +6,7 @@
 
 Landing-page desenvolvida durante o evento Next level Week da Rocketseat.
 
-[Clique aqui para acessar](https//deki1022.github.io/nlw-esports-explorer)
+[Clique aqui para acessar](https://deki1022.github.io/nlw-esports-explorer)
 
 ## 🧰 Tecnologias
 - HTML
